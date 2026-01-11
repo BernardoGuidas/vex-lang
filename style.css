@@ -1,0 +1,36 @@
+body{
+  margin:0;
+  font-family:monospace;
+  background:#000;
+  color:#00ff88;
+}
+
+header{
+  text-align:center;
+  padding:40px;
+  border-bottom:2px solid #00ff88;
+}
+
+header a{
+  color:black;
+  background:#00ff88;
+  padding:8px;
+  text-decoration:none;
+}
+
+section{
+  padding:20px;
+}
+
+pre{
+  background:#050505;
+  padding:10px;
+  border:1px solid #00ff88;
+  overflow:auto;
+}
+
+footer{
+  text-align:center;
+  padding:10px;
+  border-top:1px solid #00ff88;
+}
